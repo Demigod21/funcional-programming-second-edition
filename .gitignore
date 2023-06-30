@@ -1,0 +1,10 @@
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+.bsp
+project/project/
+project/target/
+target/
